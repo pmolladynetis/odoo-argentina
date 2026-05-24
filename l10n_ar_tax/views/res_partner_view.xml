@@ -35,9 +35,7 @@
                 </group>
             </xpath>
 
-            <group name="others_col_1">
-                <field name="drei"/>
-            </group>
+
         </field>
     </record>
 
